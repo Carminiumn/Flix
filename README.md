@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### BONUS
 - [x] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
@@ -38,5 +38,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 
+**Running on real device (iPhone 12 Pro)**
+
+<img src="https://raw.githubusercontent.com/sundries-hub/LifeReviewFile/master/uPic/RPReplay_Final1617590538.gif" style="zoom:67%;" />
+
+
+
 ### Notes
-Describe any challenges encountered while building the app.
+I had some difficulty when dealing with the autosize configuration. It's not easy to decide which side to align and align to where. I spend about 30 mins to set and fix autosize. 
+
+I use iOS 14.5 beta on my phone so I found I need to use the Xcode beta to build on my phone. I also had some issue with the signature, and it took me some time to resolve it.
